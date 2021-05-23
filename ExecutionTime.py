@@ -1,3 +1,5 @@
+# Декоратор для подсчета времени выполнения функции
+
 from datetime import datetime
 
 
